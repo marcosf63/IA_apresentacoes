@@ -99,7 +99,7 @@ Matheus Paixao
 ## Combinando morfologia e controle
 ![](img/morfologia_controle.png)
 
-## Combinando morfologia e controle (Continiação)
+## Combinando morfologia e controle (Continuação)
 ![](img/genotipo.png)
 
 ## Combinando morfologia e controle
